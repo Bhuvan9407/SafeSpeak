@@ -1,6 +1,6 @@
-# SafeSpeak Landing Page
+# Echo Landing Page
 
-Premium modern landing page for **SafeSpeak**, an anonymous multilingual peer-support platform created by team **Null Pointers**.
+Premium modern landing page for **Echo**, an anonymous multilingual peer-support platform created by team **Null Pointers**.
 
 ## Project Structure
 
