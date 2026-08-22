@@ -1798,3 +1798,65 @@ h1 {
     width: min(230px, 82vw);
   }
 }
+
+.site-header,
+.nav-cta,
+.button,
+.hero-stage,
+.hero-stage::before,
+.hero-node,
+.hero-chat,
+.insight-card,
+.trust-strip div,
+.soft-card,
+.product-card,
+.language-card,
+.preserve-panel,
+.preserve-panel div,
+.meaning-core,
+.ai-console,
+.ai-console aside,
+.ai-console aside button,
+.ai-chat,
+.three-points div,
+.wheel-detail-grid div,
+.match-box,
+.connection-list article,
+.danger-chat,
+.support-card,
+.safety-grid article,
+.resource-list,
+.identity-card,
+.public-card,
+.principles article,
+.steps article,
+.feature-grid article,
+.cta-panel {
+  border-radius: 22px !important;
+}
+
+.brand-mark,
+.mini-icon,
+.card-glyph,
+.product-top a,
+.product-icon,
+.product-card button,
+.support-card button,
+.ai-actions button,
+.steps span {
+  border-radius: 16px !important;
+}
+
+.bubble,
+.mini-bubble {
+  border-radius: 18px !important;
+}
+
+.message-row.left .bubble {
+  border-bottom-left-radius: 8px !important;
+}
+
+.message-row.right .bubble,
+.mini-bubble.ai {
+  border-bottom-right-radius: 8px !important;
+}
